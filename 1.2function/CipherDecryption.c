@@ -1,8 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
-#define Num 20
-
 //------------------
 //暗号の解読(decryption of a cipher)
 //------------------
